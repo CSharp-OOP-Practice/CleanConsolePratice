@@ -1,0 +1,9 @@
+E:\C#\ConsolePratice\ConsolePratice\bin\Debug\ConsolePratice.exe.config
+E:\C#\ConsolePratice\ConsolePratice\bin\Debug\ConsolePratice.exe
+E:\C#\ConsolePratice\ConsolePratice\bin\Debug\ConsolePratice.pdb
+E:\C#\ConsolePratice\ConsolePratice\obj\Debug\ConsolePratice.csprojResolveAssemblyReference.cache
+E:\C#\ConsolePratice\ConsolePratice\obj\Debug\ConsolePratice.exe
+E:\C#\ConsolePratice\ConsolePratice\obj\Debug\ConsolePratice.pdb
+E:\C#\課程OOP\ConsolePratice\ConsolePratice\bin\Debug\ConsolePratice.exe.config
+E:\C#\課程OOP\ConsolePratice\ConsolePratice\obj\Debug\ConsolePratice.exe
+E:\C#\課程OOP\ConsolePratice\ConsolePratice\obj\Debug\ConsolePratice.pdb
